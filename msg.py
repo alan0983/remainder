@@ -5,7 +5,7 @@ import asyncio
 from datetime import datetime, timedelta
 
 # 填入您的機器人 Token
-TOKEN = 'MTE3NTM2NDMzNzczNzY3NDc5Mw.GGWszf.Uosqio3LmCIZWgFv_xiEwK9bk6ki8qxRxTPIXw'
+TOKEN = 'MTE3NTM2NDMzNzczNzY3NDc5Mw.Gn8-t4.-fNoNhevGZaiWyoA1PJF9f19Y2d52WywsI6lMI'
 
 # 設定您想要發送訊息的頻道 ID
 CHANNEL_ID = 1082690668146737262  # 請更換為您的頻道 ID
